@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Awewawe.aternos.me:53866",
+    "ip": "Awewawe.aternos.me",
     "port": 53866,
     "version": "1.21.11",
     "try-creative": false
